@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ori-Western Production</title>
+    <link>https://www.ori-western.com/production/</link>
+    <description>Recent content on Ori-Western Production</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	<atom:link href="https://www.ori-western.com/production/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
