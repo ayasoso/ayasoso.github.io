@@ -662,7 +662,7 @@ p {
 }
 #fh5co-services .service h3 {
   text-align: center;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
   text-transform: uppercase;
   color: #368f95;
@@ -761,13 +761,16 @@ p {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
+  box-shadow: 2px 4px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
 }
 #fh5co-team .person h3 {
+  font-size: 14px;
+  font-weight: bold;
   margin-bottom: 0;
 }
 #fh5co-team .person h4 {
   color: #999999;
-  font-size: 16px;
+  font-size: 14px;
 }
 #fh5co-team .person .social {
   padding: 0;
